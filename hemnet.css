@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: #2e8b57;
+    font-size: 36px; /* Size for main header */
+    text-align: left; /* Left align the main header */
+}
+
+h2 {
+    color: #4682b4;
+    font-size: 28px; /* Size for secondary header */
+    text-align: left; /* Left align the secondary header */
+}
+
+h4 {
+    color: #2e8b57;
+    font-size: 20px; /* Size for additional information */
+    text-align: left; /* Left align the additional information */
+}
+
+.sidebar .sidebar-content {
+    background-color: #f5f5f5;
+    font-size: 22px; /* Size for sidebar content */
+}
+
+.stButton button {
+    background-color: #ff6347;
+    color: white;
+    font-size: 18px; /* Size for buttons */
+}
